@@ -1,4 +1,4 @@
-# Neural Architecture Dynamics: A Systematic Analysis of Hyperparameter Effects on MLP Performance
+# Systematically Testing Effects of Different Hyperparameters on MLP Performance
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 
